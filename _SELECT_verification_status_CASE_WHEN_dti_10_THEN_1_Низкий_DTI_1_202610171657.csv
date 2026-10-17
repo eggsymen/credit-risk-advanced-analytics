@@ -1,0 +1,13 @@
+"verification_status","dti_tier","total_applications","avg_assigned_rate","default_rate_pct"
+Not Verified,"1. Низкий DTI (<10%)",126921,10.87,5.86
+Source Verified,"1. Низкий DTI (<10%)",159197,12.37,9.57
+Verified,"1. Низкий DTI (<10%)",83470,13.52,11.91
+Not Verified,"2. Средний DTI (10-20%)",285370,11.19,7.26
+Source Verified,"2. Средний DTI (10-20%)",364606,12.82,11.49
+Verified,"2. Средний DTI (10-20%)",206813,14.35,14.58
+Not Verified,"3. Высокий DTI (20-30%)",201754,12.05,9.51
+Source Verified,"3. Высокий DTI (20-30%)",235292,13.77,14.20
+Verified,"3. Высокий DTI (20-30%)",204832,15.00,17.64
+Not Verified,"4. Критический DTI (30%+)",63186,13.69,9.94
+Source Verified,"4. Критический DTI (30%+)",74151,15.15,16.24
+Verified,"4. Критический DTI (30%+)",92919,16.08,18.43
